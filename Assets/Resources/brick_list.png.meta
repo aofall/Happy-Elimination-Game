@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 269ea8c04ef86d247b43d985b8a799e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: brick_list_0
+  - first:
+      213: 21300002
+    second: brick_list_1
+  - first:
+      213: 21300004
+    second: brick_list_2
+  - first:
+      213: 21300006
+    second: brick_list_3
+  - first:
+      213: 21300008
+    second: brick_list_4
+  - first:
+      213: 21300010
+    second: brick_list_5
+  - first:
+      213: 21300012
+    second: brick_list_6
+  - first:
+      213: 21300014
+    second: brick_list_7
+  - first:
+      213: 21300016
+    second: brick_list_8
+  - first:
+      213: 21300018
+    second: brick_list_9
+  - first:
+      213: 21300020
+    second: brick_list_10
+  - first:
+      213: 21300022
+    second: brick_list_11
+  - first:
+      213: 21300024
+    second: brick_list_12
+  - first:
+      213: 21300026
+    second: brick_list_13
+  - first:
+      213: 21300028
+    second: brick_list_14
+  - first:
+      213: 21300030
+    second: brick_list_15
+  - first:
+      213: 21300032
+    second: brick_list_16
+  - first:
+      213: 21300034
+    second: brick_list_17
+  - first:
+      213: 21300036
+    second: brick_list_18
+  - first:
+      213: 21300038
+    second: brick_list_19
+  - first:
+      213: 21300040
+    second: brick_list_20
+  - first:
+      213: 21300042
+    second: brick_list_21
+  - first:
+      213: 21300044
+    second: brick_list_22
+  - first:
+      213: 21300046
+    second: brick_list_23
+  - first:
+      213: 21300048
+    second: brick_list_24
+  - first:
+      213: 21300050
+    second: brick_list_25
+  - first:
+      213: 21300052
+    second: brick_list_26
+  - first:
+      213: 21300054
+    second: brick_list_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brick_list_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c94637e8a5061459d61f86ae02bf27
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 191
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d551e2605e9bd245a3b476b0ab9bd67
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add475be7baa74946a817cf7e6f203fe
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4300324a231554aa4377fcaaaa6c03
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 193
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f587d3601859a45b32249aeacf3b4c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 194
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6864543d60b94f9afd2e46d035c06
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231dc0e053e69bd43b1c554709641543
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 139
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac669c7df9e3be448561efdce925245
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 139
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb8918f370667448accd96dbef7e81
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 139
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9968c7c7c6c453848a439a62494c8f45
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 139
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7290348a0f6ba24598c9700b67e9c07
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343195e483c87e54cbdaf9cb3877f61c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd37c1258fe3b6a4a8428de2bbd3a5e0
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f21f728ebc0a348bd6a69ec46006d8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 94
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730da2f9f6547da43af788948f8cda05
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 95
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f00d5ba113dbdd48ba08567ab38e6d1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4ce3ddf8db6494d8f4b480b0e34706
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1368f3198be07fd49a3952116bac3f15
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 52
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da0a9404ecc3b44ba5a24f45084c08d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 52
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdad95a032935344962633f5b65ad84
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 52
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119edcb3158251f408ebdc58562c66cc
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4fb47b7050b1b4d8f6ca49849921ed
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 10
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ebf9f2d4a9ef40966aeac5bf99b5c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa6210b8a570b44290242d62d228ca2
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b3bb5d024e2b34b997d8358495378a
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 12
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84639eb991f3648b0b8e8b30922634
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 37
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eff4e334b3cfb246a98ab0e41ec3051
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_list_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2778110a356a548b2492cdecd01fc4
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8106fca3e39d48e478785478f75a135e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
